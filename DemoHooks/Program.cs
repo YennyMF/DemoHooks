@@ -5,8 +5,8 @@ int edad = 28;
 if (edad >= 18)
 {
     Console.WriteLine("Es mayor de edad");
-        }
+}
 else
 {
-     Console.WriteLine("Es menor de edad");
-                    }
+    Console.WriteLine("Es menor de edad");
+}
